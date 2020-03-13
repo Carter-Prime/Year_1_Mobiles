@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab06_ListView</string>
+    <string name="name">Name</string>
+    <string name="dateto">DateTo</string>
+    <string name="datefrom">DateFrom</string>
+    <string name="description">Description</string>
+</resources>
